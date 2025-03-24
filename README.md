@@ -1,5 +1,4 @@
 # Number-guessing-game
-# Number Guessing Game
 
 A simple Python game using Tkinter where users try to guess a randomly generated number within 10 attempts.
 
